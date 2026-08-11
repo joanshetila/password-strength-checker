@@ -14,3 +14,14 @@ python password_checker.py
 
 ##Project Goal
 This project helps beginners understand basic Python programming and password security concepts
+
+##How to run
+1.Make sure Python is installed.
+2.Download or clone this repository.
+3.Open a terminal on the projcet folder.
+4.Run:
+
+```bash
+python password_checker.py
+5.Enter a password when prompted.
+6.The program will show the password strength.
